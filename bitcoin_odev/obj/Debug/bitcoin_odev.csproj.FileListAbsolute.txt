@@ -1,0 +1,6 @@
+c:\users\asus\documents\visual studio 2013\Projects\bitcoin_odev\bitcoin_odev\bin\Debug\bitcoin_odev.exe.config
+c:\users\asus\documents\visual studio 2013\Projects\bitcoin_odev\bitcoin_odev\bin\Debug\bitcoin_odev.exe
+c:\users\asus\documents\visual studio 2013\Projects\bitcoin_odev\bitcoin_odev\bin\Debug\bitcoin_odev.pdb
+c:\users\asus\documents\visual studio 2013\Projects\bitcoin_odev\bitcoin_odev\obj\Debug\bitcoin_odev.csprojResolveAssemblyReference.cache
+c:\users\asus\documents\visual studio 2013\Projects\bitcoin_odev\bitcoin_odev\obj\Debug\bitcoin_odev.exe
+c:\users\asus\documents\visual studio 2013\Projects\bitcoin_odev\bitcoin_odev\obj\Debug\bitcoin_odev.pdb
